@@ -1,5 +1,5 @@
 """
-What is the length of the longest ORF that appears in the sequence with the identifier gi|142022655|gb|EQ086233.1|97?
+What is the length of the longest ORF that appears in the sequence with the identifier gi|142022655|gb|EQ086233.1|16?
 """
 
 f = open("dna2.fasta", "r")
